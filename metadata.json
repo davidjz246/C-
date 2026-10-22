@@ -1,0 +1,6 @@
+{
+  "name": "C++ Mastery Lab",
+  "description": "Interactive C++ learning platform with a live AI tutor, curriculum roadmap, Monaco code editor, real-time compilation sandbox, memory visualizer, and VSCode export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

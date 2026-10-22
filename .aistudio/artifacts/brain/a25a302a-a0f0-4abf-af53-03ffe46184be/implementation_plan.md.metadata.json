@@ -1,0 +1,6 @@
+{
+  "summary":  "Architectural plan to upgrade the C++ Mastery Lab AI Tutor into a complete, open-ended C++ expert that analyzes user questions in tandem with the active Monaco editor code buffer, eliminating canned fallbacks and ensuring robust, unrestricted technical responses across all C++ topics.",
+  "updatedAt":  "2026-10-22T09:55:33.485182127Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
